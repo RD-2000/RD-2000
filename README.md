@@ -13,7 +13,7 @@
 - 👀 Obsessed with software development, particularly crafting solutions that make life simpler.
 - 🌱 Learning and growing every day with Java and full-stack web development.
 - 💞️ Open to collaboration on Java-based projects and always eager to learn from others.
-- 📫 Let’s connect on GitHub.
+- 📫 Let’s connect on <a href="https://www.linkedin.com/in/rutuja-divase-694695207/"> LinkedIn. </a>
 - ⚡ Fun fact: The best part of coding? Fixing bugs feels like winning a mini-battle every time! 🏆
 
 <!---
